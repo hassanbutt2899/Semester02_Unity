@@ -1,0 +1,16 @@
+IMPORTANT: For  modules, You need to set Input system both old and new   IMPORTANT: For some modules, you need to install glTFast Package which allows your Unity Project to understand and process .glb files, used in some modules of this file.
+           1. Kindly copy this:      com.unity.cloud.gltfast
+           2. Inside your project, Navigate to top menu and select WINDOW > PACKAGE MANAGER.
+           3. In PACKAGE MANAGER WINDOW, click the "+" (Plus icon) in the top-left corner.
+           4. Select "Add Package by git URL" from the drop-down menu.
+           5. Enter the copied text: com.unity.cloud.gltfast
+           6. Click Add or install.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+==============================
+MODULES GUIDELINES (IMPORTANT)
+==============================
+
+Tripod Stand : requires com.unity.cloud.gltfast Package.
+
+Its Default size very very very small plz make ist size large
+An this module is Easily Useable Just by Putting It in the System

@@ -1,0 +1,7 @@
+IMPORTANT: For  modules, You need to set Input system both old and new   
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+==============================
+MODULES GUIDELINES (IMPORTANT)
+==============================
+Bunsen Burner: 
+       Works with button and has animation during runtime. Simply run the project, from camera view, click the RED button to turn it ON or OFF. Click the             other 3 buttons to increase speed of Flame 1) Low Flame 2) Medium Flame 3) High Flame 
